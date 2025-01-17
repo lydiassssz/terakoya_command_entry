@@ -33,6 +33,11 @@ const commands = [
     type: 1,
     // 今回はオプション無し
   },
+  {
+    name: "set_view_quiz",
+    description: "「回答を見る」ボタンの追加",
+    type: 1,
+  }
 ];
 
 /**
